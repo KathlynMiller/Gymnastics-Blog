@@ -1,37 +1,44 @@
 # [Gymnastics Blog](file:///C:/Users/Student/Gymnastics%20Blog/index.html#page-top) - Rio Olympics
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
 ## Getting Started
 
-Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
+* My main goal in this project has never changed but I have made changes to make it look better.
+* Before started, I didn’t know what to do 
+* What inspired me was doing a blog similar how I did my sophomore year 
+* And I like making website because they are pretty easy to do.
+* I liked this project because it was mainly about what I liked and wanted to do.
+* So I decided to do a Gymnastics Blog because I love gymnastics and I did it in the past for about 10 years.
 
-## Developing Using Source Files
+## Unique
 
-To use the source files, you will need to have npm installed globally along with Gulp.js. To start:
-* Run `npm install` in the root directory
-* Run `gulp dev` and edit the files as needed
+* My website is unique by giving you an insight on what the Olympic Gymnasts at Rio 2016 are like and what they do outside of gymnastics.
 
-If you need to update the plugins included with this template, simply run the following tasks:
-* First run `npm update` to update the dependencies
-* Then run `gulp copy` to copy the new versions to their proper destinations
+## Methods 
 
-## Bugs and Issues
+# I started out with using…
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+* HTML
+* Bootstrap/Agency
+* JS
+* CSS
+* PHP
+* CodePen
 
-## Creator
+## Bugs/Issues/Challenges
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+* My challenges were to put some JS features in my website but I was able to do it without making any errors.
+* It was also hard to decide what gifs to put in my project to make it look more interesting.
+* I wanted to do a carousel but it didn’t look clean enough so I decided to take it out.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
 
-Gymnastics Blog is based on [HTML,CSS,JS,PHP] framework created by [Kathlyn Miller](https://twitter.com/liddo_kattyboo).
 
-## Copyright and License
+## Future Work
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+* My last work on this project was to connect it to the server so that it can send messages/comments which would have been cool.
+* But other than that, I am satisfied on how my project looks and I am very proud of myself of what I made because I never thought I could achieve something like this.
+* Any Questions? Contact me @kathlym.miller@gmail.com
+
+
+
+
